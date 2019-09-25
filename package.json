@@ -17,7 +17,9 @@
   "author": "Pavle Batuta <pavle@batuta.xyz>",
   "license": "MIT",
   "devDependencies": {
+    "chai": "^4.2.0",
     "ganache-cli": "^6.7.0",
+    "openzeppelin-test-helpers": "^0.4.3",
     "solium": "^1.2.5",
     "truffle": "^5.0.37"
   }
